@@ -37,6 +37,4 @@ wie ist der genau befehl und wie führt man ihn aus.
 - /umgang -> Umgangston - Befehl/Sanktion
 - /supabuse -> Supportticketabuse - Befehl/Sanktion
 
-####
-Danke für die Informationen 
-& Entschuldigung für die Umstände Jedoch war ich selber noch nicht im Admin Team.
+####Danke für die Informationen & Entschuldigung für die Umstände Jedoch war ich selber noch nicht im Admin Team.
